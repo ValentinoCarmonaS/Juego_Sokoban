@@ -7,6 +7,3 @@ Trabajo Práctico final de la materia Algoritmos y Programación I de FIUBA
 
 Corrector: **AlanBotoshansky**
 
-## Licencia
-
-Este repositorio se encuentra bajo la Licencia MIT.
