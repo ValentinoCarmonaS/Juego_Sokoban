@@ -1,0 +1,24 @@
+Up = NORTE
+Left = OESTE
+Down = SUR
+Right = ESTE
+
+w = NORTE
+a = OESTE
+s = SUR
+d = ESTE
+
+r = REINICIAR
+
+1 = DESHACER
+
+2 = REHACER
+
+space = BACKTRACKING 
+
+Escape = SALIR
+
+Tab = CONTROLES
+
+h = LEYENDA
+
